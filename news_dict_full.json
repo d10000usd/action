@@ -17,34 +17,19 @@
                 "product": 18
             },
             {
-                "title": "삼성전자 임원들 ‘7만전자’ 돌파 의지 노태문·박학규 등 자사주 매입 줄이어",
+                "title": "반도체 생산 차질 없었지만…민노총식 무력시위 삼성전자로 확대되나",
                 "newstext": "",
                 "gentime": "2024-06-09",
-                "img": "https://cdn.smedaily.co.kr/news/thumbnail/202406/293516_230519_436_v150.jpg",
-                "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=293516",
+                "img": "https://image.ajunews.com/content/image/2024/06/09/20240609200621380735.jpeg",
+                "link": "https://www.ajunews.com/view/20240609200334980",
                 "stockerticker": [
                     {}
                 ],
                 "searchkeycount": {
-                    "삼성전자": 7
+                    "삼성전자": 11
                 },
                 "coincounts": {},
-                "product": 7
-            },
-            {
-                "title": "삼성전자 임원, 자사주 매입 행진···'8만 전자' 가나",
-                "newstext": "",
-                "gentime": "2024-06-09",
-                "img": "https://nimage.newsway.co.kr/photo/2024/01/18/20240118000028_1200.jpg",
-                "link": "https://www.newsway.co.kr/news/view?ud=2024060910082925620",
-                "stockerticker": [
-                    {}
-                ],
-                "searchkeycount": {
-                    "삼성전자": 6
-                },
-                "coincounts": {},
-                "product": 6
+                "product": 11
             },
             {
                 "title": "삼성전자, 혜택 가득 ‘올 뉴 비스포크 페스타 시즌2’ 실시",
@@ -67,6 +52,26 @@
                 "product": 3
             },
             {
+                "title": "[오늘의 라이벌] 삼성전자 vs LG전자",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "http://www.financialreview.co.kr/news/thumbnail/202406/29127_35653_1253_v150.jpg",
+                "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=29127",
+                "stockerticker": [
+                    {
+                        "하이브": 3,
+                        "하나투어": 2
+                    }
+                ],
+                "searchkeycount": {
+                    "삼성전자": 3
+                },
+                "coincounts": {
+                    "KRW-HIVE": 3
+                },
+                "product": 3
+            },
+            {
                 "title": "삼성전자 사상 첫 파업에 외신도 주목…\"불편한 타이밍\"",
                 "newstext": "",
                 "gentime": "2024-06-08",
@@ -80,43 +85,12 @@
                 },
                 "coincounts": {},
                 "product": 2
-            },
-            {
-                "title": "삼성전자 노조 오늘 첫 연가 투쟁…생산 차질 가능성은?",
-                "newstext": "",
-                "gentime": "2024-06-07",
-                "img": "https://img.wowtv.co.kr/wowtv_news/dnrs/20240607/B20240607053859967.jpg",
-                "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202406070007&t=NN",
-                "stockerticker": [
-                    {}
-                ],
-                "searchkeycount": {
-                    "삼성전자": 2
-                },
-                "coincounts": {},
-                "product": 2
-            },
-            {
-                "title": "삼성전자 연차사용 첫 파업… 지난해 징검다리 휴일보다 연차 적어",
-                "newstext": "",
-                "gentime": "2024-06-07",
-                "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/07/e8dca05c-1244-49d0-a913-9e48e5cff734.jpg/_ir_/resize/1280",
-                "link": "https://www.joongang.co.kr/article/25254821",
-                "stockerticker": [
-                    {}
-                ],
-                "searchkeycount": {
-                    "삼성전자": 2
-                },
-                "coincounts": {},
-                "product": 2
             }
         ],
         "company": [
             {
-                "하이브": 3,
-                "하나투어": 3,
-                "이마트": 2
+                "하이브": 5,
+                "하나투어": 3
             }
         ]
     },
@@ -140,55 +114,73 @@
                 },
                 "coincounts": {},
                 "product": 4
+            },
+            {
+                "title": "주재환 에코프로비엠 대표, 헝가리 공장 직접 챙긴다…TF 총괄 맡아",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://img.etnews.com/news/article/2024/06/03/news-p.v1.20240603.0a984805a1d5413b82b0eb6a7fa29f50_P1.jpg",
+                "link": "https://www.etnews.com/20240605000092",
+                "stockerticker": [
+                    {
+                        "에코프로": 13,
+                        "에코프로비엠": 9
+                    }
+                ],
+                "searchkeycount": {
+                    "에코프로": 2
+                },
+                "coincounts": {
+                    "KRW-MTL": 1
+                },
+                "product": 2
+            },
+            {
+                "title": "맏형들이 해냈다…삼성전자·에코프로비엠 급등",
+                "newstext": "",
+                "gentime": "2024-06-05",
+                "img": "https://img.wowtv.co.kr/wowtv_news/dnrs/20230930/B20230930082356820.jpg",
+                "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202406050422&t=NN",
+                "stockerticker": [
+                    {
+                        "에코프로": 5,
+                        "에코프로비엠": 3,
+                        "포스코퓨처엠": 1,
+                        "HLB": 1,
+                        "한미반도체": 1,
+                        "아모레퍼시픽": 1,
+                        "알테오젠": 1,
+                        "엔켐": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "에코프로": 2
+                },
+                "coincounts": {},
+                "product": 2
             }
         ],
         "company": [
             {
-                "에코프로": 74,
-                "에코프로머티": 24,
-                "에코프로비엠": 15,
-                "포스코퓨처엠": 7,
-                "알테오젠": 7,
-                "한미반도체": 1,
-                "엘앤에프": 1,
-                "금양": 1,
-                "레이크머티리얼즈": 1,
-                "대주전자재료": 1,
+                "에코프로": 80,
+                "에코프로비엠": 23,
+                "에코프로머티": 15,
+                "알테오젠": 8,
+                "포스코퓨처엠": 5,
+                "하이브": 4,
+                "엘앤에프": 2,
+                "한화": 2,
                 "포스코DX": 1,
-                "신성델타테크": 1,
-                "파워로직스": 1,
-                "서남": 1
+                "HLB": 1,
+                "한미반도체": 1,
+                "아모레퍼시픽": 1,
+                "엔켐": 1,
+                "서한": 1
             }
         ]
     },
     "알테오젠": {
         "newscontents": [
-            {
-                "title": "'대전에서 터진 유전?' 알테오젠, 정혜신라인 뚫고 사상최고가",
-                "newstext": "",
-                "gentime": "2024-06-04",
-                "img": "https://cdn.smarttoday.co.kr/news/thumbnail/202406/51764_45266_361_v150.jpg",
-                "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=51764",
-                "stockerticker": [
-                    {
-                        "알테오젠": 20,
-                        "유한양행": 6,
-                        "HLB": 4,
-                        "에코프로": 3,
-                        "오스코텍": 2,
-                        "코텍": 2,
-                        "에코프로비엠": 1,
-                        "엔켐": 1,
-                        "리가켐바이오": 1,
-                        "서한": 1
-                    }
-                ],
-                "searchkeycount": {
-                    "알테오젠": 8
-                },
-                "coincounts": {},
-                "product": 8
-            },
             {
                 "title": "[바이오USA 2024] 알테오젠 '테르가제' 허가 임박?",
                 "newstext": "",
@@ -246,52 +238,45 @@
                 "product": 2
             },
             {
-                "title": "[오늘의 주목주] '원전주 차익실현' 두산에너빌리티 7%대 하락, 알테오젠 급등",
+                "title": "'SC 제형' 뭐길래…코스닥 대장주 된 알테오젠",
                 "newstext": "",
-                "gentime": "2024-06-04",
-                "img": "https://www.businesspost.co.kr/news/photo/202406/20240604172749_34049.jpg",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=354506",
+                "gentime": "2024-06-07",
+                "img": "https://img.wowtv.co.kr/vodimg/WebEditor/w1717749777742.jpg",
+                "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202406070136&t=NNv",
                 "stockerticker": [
                     {
-                        "알테오젠": 4,
-                        "비에이치": 1,
-                        "비에이치아이": 1,
-                        "모비스": 1,
-                        "대모": 1
+                        "알테오젠": 8,
+                        "오텍": 1
                     }
                 ],
                 "searchkeycount": {
                     "알테오젠": 2
                 },
-                "coincounts": {},
+                "coincounts": {
+                    "KRW-ANKR": 1
+                },
                 "product": 2
             }
         ],
         "company": [
             {
-                "알테오젠": 82,
-                "유한양행": 11,
-                "에코프로": 10,
-                "오텍": 9,
+                "알테오젠": 68,
+                "에코프로": 15,
+                "오텍": 11,
                 "TP": 5,
-                "HLB": 4,
+                "에코프로비엠": 4,
                 "프레스티지바이오로직스": 4,
-                "오스코텍": 2,
-                "코텍": 2,
-                "에코프로비엠": 2,
-                "엔켐": 2,
-                "리가켐바이오": 1,
-                "서한": 1,
+                "엔켐": 3,
+                "HLB": 2,
+                "리노공업": 2,
+                "HPSP": 2,
+                "하이브": 1,
+                "유한양행": 1,
                 "한미약품": 1,
                 "에스티팜": 1,
                 "종근당": 1,
                 "동국제약": 1,
-                "하이브": 1,
-                "비에이치": 1,
-                "비에이치아이": 1,
-                "모비스": 1,
-                "대모": 1,
-                "아스트": 1
+                "삼천당제약": 1
             }
         ]
     },
@@ -435,138 +420,93 @@
                 },
                 "coincounts": {},
                 "product": 4
+            },
+            {
+                "title": "유진테크 주가 신바람...눈길 끌만한 이슈 뭐길래?",
+                "newstext": "",
+                "gentime": "2024-03-21",
+                "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202403/253416_263224_1557_v150.jpg",
+                "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=253416",
+                "stockerticker": [
+                    {
+                        "유진테크": 3,
+                        "피에스케이": 2,
+                        "한솔케미칼": 1,
+                        "테크윙": 1,
+                        "심텍": 1,
+                        "후성": 1,
+                        "케이씨텍": 1,
+                        "한양이엔지": 1,
+                        "케이씨": 1,
+                        "디엔에프": 1,
+                        "원익": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "3D": 3,
+                    "낸드(NAND)": 1
+                },
+                "coincounts": {},
+                "product": 3
             }
         ],
         "company": [
             {
-                "피에스케이": 16,
-                "원익": 12,
-                "유진테크": 10,
-                "케이씨텍": 8,
-                "케이씨": 8,
+                "피에스케이": 18,
+                "원익": 13,
+                "유진테크": 13,
+                "케이씨텍": 9,
+                "케이씨": 9,
+                "심텍": 7,
                 "원익QnC": 7,
-                "심텍": 6,
-                "테크윙": 5,
-                "한양이엔지": 5,
+                "테크윙": 6,
+                "한양이엔지": 6,
                 "유니테스트": 4,
+                "한솔케미칼": 4,
                 "원익IPS": 3,
-                "한솔케미칼": 3,
-                "디엔에프": 2,
-                "후성": 2,
-                "한진": 1,
+                "후성": 3,
+                "디엔에프": 3,
                 "원익머트리얼즈": 1,
-                "솔브레인": 1
+                "솔브레인": 1,
+                "한진": 1
             }
         ]
     },
     "온디바이스 AI": {
         "newscontents": [
             {
-                "title": "[기획:AI와 교육] ②AI를 활용한 교육은 무엇이 준비되고 있나",
+                "title": "정부, ‘보이스피싱 예방 AI’ 개발 돕는다",
                 "newstext": "",
-                "gentime": "2024-06-07",
-                "img": "https://cdn.aitimes.com/news/thumbnail/202406/160389_173010_5423_v150.jpg",
-                "link": "https://www.aitimes.com/news/articleView.html?idxno=160389",
-                "stockerticker": [
-                    {
-                        "디오": 1
-                    }
-                ],
-                "searchkeycount": {
-                    "온디바이스": 1,
-                    "AI": 30
-                },
-                "coincounts": {},
-                "product": 30
-            },
-            {
-                "title": "에이수스, ‘컴퓨텍스 2024’서 차세대 AI PC 라인업 및 솔루션 공개",
-                "newstext": "",
-                "gentime": "2024-06-05",
-                "img": "https://images.khan.co.kr/article/2024/06/05/news-p.v1.20240605.f980823e4f6348979cecf420a2abda9c_P1.jpg",
-                "link": "https://sports.khan.co.kr/news/sk_index.html?art_id=202406050508003&sec_id=560101&pt=nv",
-                "stockerticker": [
-                    {
-                        "디오": 2,
-                        "DL": 1
-                    }
-                ],
-                "searchkeycount": {
-                    "온디바이스": 1,
-                    "AI": 28
-                },
-                "coincounts": {},
-                "product": 28
-            },
-            {
-                "title": "LG이노텍, 애플 AI 인공지능 최대 수혜주…\"실적 레벨업 기대\" -KB",
-                "newstext": "",
-                "gentime": "2024-06-07",
-                "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2024/06/PS24060700139.jpg",
-                "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01338246638919424",
+                "gentime": "2024-06-03",
+                "img": "http://cdnimage.dailian.co.kr/news/202406/news_1717401116_1367941_m_1.jpeg",
+                "link": "https://www.dailian.co.kr/news/view/1367941/?sc=Naver",
                 "stockerticker": [
                     {}
                 ],
                 "searchkeycount": {
-                    "온디바이스": 4,
-                    "AI": 5
+                    "온디바이스": 2,
+                    "AI": 12
+                },
+                "coincounts": {},
+                "product": 24
+            },
+            {
+                "title": "[e뉴스초대석] AI로 모든 이가 이로워질 세상, 그리고 ‘업스테이지’",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202406/2137515_941253_721_v150.jpg",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2137515",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "온디바이스": 2,
+                    "AI": 12
                 },
                 "coincounts": {
-                    "KRW-MINA": 3
+                    "KRW-SXP": 10
                 },
-                "product": 20
-            },
-            {
-                "title": "[현장] '反엔비디아' 동맹 구축 나선 인텔…\"韓 기업과 협력, AI 비전의 중심\"",
-                "newstext": "",
-                "gentime": "2024-06-05",
-                "img": "https://img.lb.inews24.com/v1/facebookexternalhit/face/626x352/ce20d63fe92ab4.jpg",
-                "link": "http://www.inews24.com/view/1727538",
-                "stockerticker": [
-                    {}
-                ],
-                "searchkeycount": {
-                    "온디바이스": 1,
-                    "AI": 20
-                },
-                "coincounts": {},
-                "product": 20
-            },
-            {
-                "title": "인텔 “개방형 플랫폼으로 AI 데이터센터 시장 주도”",
-                "newstext": "",
-                "gentime": "2024-06-05",
-                "img": "https://cdn.epnc.co.kr/news/thumbnail/202406/301579_301884_5042_v150.jpg",
-                "link": "https://www.epnc.co.kr/news/articleView.html?idxno=301579",
-                "stockerticker": [
-                    {
-                        "디오": 1
-                    }
-                ],
-                "searchkeycount": {
-                    "온디바이스": 1,
-                    "AI": 19
-                },
-                "coincounts": {},
-                "product": 19
-            },
-            {
-                "title": "업스테이지, 인텔과 협업…칩셋 최적화로 온디바이스 LLM 구현",
-                "newstext": "",
-                "gentime": "2024-06-07",
-                "img": "https://i2n.news1.kr/system/photos/2024/6/7/6692898/article.jpg",
-                "link": "https://www.news1.kr/articles/5440225",
-                "stockerticker": [
-                    {}
-                ],
-                "searchkeycount": {
-                    "온디바이스": 3,
-                    "AI": 6
-                },
-                "coincounts": {
-                    "KRW-SXP": 12
-                },
-                "product": 18
+                "product": 24
             },
             {
                 "title": "애플, 첫 AI챗봇 파트너로 구글 대신 오픈AI 낙점...왜?",
@@ -587,76 +527,124 @@
                 "product": 17
             },
             {
-                "title": "카톡 '보이스톡'도 실시간 통역…삼성, 외부앱에 '갤럭시 AI' 적용",
+                "title": "애플, 다음 주 '애플 인텔리전스' AI 시스템 공개 예정",
                 "newstext": "",
-                "gentime": "2024-06-07",
-                "img": "https://img.etnews.com/news/article/2024/06/07/news-p.v1.20240607.1f27d1f97a8c4384a163b8b0c63953ec_P1.jpg",
-                "link": "https://www.etnews.com/20240607000039",
-                "stockerticker": [
-                    {
-                        "하이브": 1,
-                        "원준": 1
-                    }
-                ],
-                "searchkeycount": {
-                    "온디바이스": 2,
-                    "AI": 4
-                },
-                "coincounts": {
-                    "KRW-HIVE": 1
-                },
-                "product": 8
-            },
-            {
-                "title": "대동-서울대 대학원, AI 로봇 개발 '맞손'",
-                "newstext": "",
-                "gentime": "2024-06-05",
-                "img": "https://image.fnnews.com/resource/media/image/2024/06/05/202406051555556459_l.jpg",
-                "link": "http://www.fnnews.com/news/202406051552004852",
-                "stockerticker": [
-                    {
-                        "대동": 8
-                    }
-                ],
-                "searchkeycount": {
-                    "온디바이스": 1,
-                    "AI": 5
-                },
-                "coincounts": {},
-                "product": 5
-            },
-            {
-                "title": "네이버 제휴 인텔 AI칩 ‘가우디’ 누가 쓰나…생태계 박차",
-                "newstext": "",
-                "gentime": "2024-06-06",
-                "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2024/06/PS24060700222.jpg",
-                "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01948326638919096",
+                "gentime": "2024-06-08",
+                "img": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=20240604095637002293bc914ac7112232215111.jpg",
+                "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202406080251319440e8b8a793f7_1/article.html",
                 "stockerticker": [
                     {}
                 ],
                 "searchkeycount": {
                     "온디바이스": 1,
-                    "AI": 5
+                    "AI": 12
+                },
+                "coincounts": {},
+                "product": 12
+            },
+            {
+                "title": "애플 AI 전략 음성비서 '시리'(Siri) 업그레이드가 전부?",
+                "newstext": "",
+                "gentime": "2024-06-08",
+                "img": "https://image.fnnews.com/resource/media/image/2023/06/06/202306060705588631_l.jpg",
+                "link": "http://www.fnnews.com/news/202406080859150819",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "온디바이스": 1,
+                    "AI": 12
+                },
+                "coincounts": {},
+                "product": 12
+            },
+            {
+                "title": "애플 새 AI는 ‘애플 인텔리전스’?…10일 WWDC 개막",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://img.khan.co.kr/news/2024/06/09/news-p.v1.20240609.726b1c63e44643eaa64ad79ad93f4639_P1.jpg",
+                "link": "https://www.khan.co.kr/economy/economy-general/article/202406091556001",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "온디바이스": 1,
+                    "AI": 11
+                },
+                "coincounts": {},
+                "product": 11
+            },
+            {
+                "title": "정부 사업 의존도 줄이자…韓 AI 기업, AI 칩과 짝짓기 활발",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2024/06/PS24060900473.jpg",
+                "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01764646638920080",
+                "stockerticker": [
+                    {
+                        "NHN": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "온디바이스": 1,
+                    "AI": 9
+                },
+                "coincounts": {},
+                "product": 9
+            },
+            {
+                "title": "7월 공개 '갤럭시Z폴드·플립6' 카톡에서도 AI 통역 지원",
+                "newstext": "",
+                "gentime": "2024-06-08",
+                "img": "https://menu.moneys.co.kr/moneyweek/thumb/2024/06/07/06/2024060716221250769_1.jpg",
+                "link": "https://www.moneys.co.kr/article/2024060716221250769",
+                "stockerticker": [
+                    {
+                        "원준": 2,
+                        "하이브": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "온디바이스": 1,
+                    "AI": 4
                 },
                 "coincounts": {
-                    "KRW-SXP": 7
+                    "KRW-HIVE": 1
                 },
-                "product": 5
+                "product": 4
             }
         ],
         "company": [
             {
-                "대동": 15,
-                "아이티엠반도체": 6,
-                "디오": 4,
-                "원준": 2,
-                "하이브": 1,
-                "DL": 1
+                "원준": 5,
+                "하이브": 2,
+                "NHN": 1
             }
         ]
     },
     "2차전지(전고체)": {
         "newscontents": [
+            {
+                "title": "LG에너지솔루션, 테마별 주식 전고체 부문 1위··· 삼성SDI·SK이노베이션 뒤이어 < 데이터·통계 < 기사본문",
+                "newstext": "",
+                "gentime": "2024-06-06",
+                "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202406/2136276_939953_519_v150.jpg",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2136276",
+                "stockerticker": [
+                    {
+                        "이수스페셜티케미컬": 3,
+                        "대주전자재료": 3,
+                        "미코": 3,
+                        "이브이첨단소재": 3,
+                        "레몬": 3
+                    }
+                ],
+                "searchkeycount": {
+                    "2차전지(전고체)": 4
+                },
+                "coincounts": {},
+                "product": 4
+            },
             {
                 "title": "삼성SDI, 테마별 주식 전고체 부문 1위··· LG에너지솔루션 뒤이어",
                 "newstext": "",
@@ -681,60 +669,39 @@
                     "KRW-HIVE": 2
                 },
                 "product": 4
-            },
-            {
-                "title": "LG에너지솔루션, 테마별 주식 전고체 부문 1위··· 삼성SDI·SK이노베이션 뒤이어 < 데이터·통계 < 기사본문",
-                "newstext": "",
-                "gentime": "2024-06-06",
-                "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202406/2136276_939953_519_v150.jpg",
-                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2136276",
-                "stockerticker": [
-                    {
-                        "이수스페셜티케미컬": 3,
-                        "대주전자재료": 3,
-                        "미코": 3,
-                        "이브이첨단소재": 3,
-                        "레몬": 3
-                    }
-                ],
-                "searchkeycount": {
-                    "2차전지(전고체)": 4
-                },
-                "coincounts": {},
-                "product": 4
             }
         ],
         "company": [
             {
                 "하나기술": 12,
-                "LF": 8,
+                "씨아이에스": 7,
                 "레이크머티리얼즈": 6,
+                "코오롱": 6,
                 "이수스페셜티케미컬": 6,
                 "대주전자재료": 6,
                 "레몬": 6,
-                "코오롱": 6,
+                "디알텍": 6,
                 "천보": 5,
                 "OCI": 5,
-                "한화": 4,
                 "에코프로": 4,
                 "코오롱인더": 4,
-                "씨아이에스": 3,
-                "덕산테코피아": 3,
-                "아바코": 3,
                 "미코": 3,
                 "이브이첨단소재": 3,
-                "하이브": 2,
-                "한화에어로스페이스": 2,
+                "덕산테코피아": 3,
+                "아바코": 3,
+                "한화": 2,
                 "포스코퓨처엠": 2,
+                "하이브": 2,
+                "한화에어로스페이스": 1,
+                "한화시스템": 1,
                 "미래산업": 1,
-                "유니드": 1,
-                "네패스": 1,
-                "한화오션": 1,
                 "에코프로비엠": 1,
                 "에코프로머티": 1,
                 "한미약품": 1,
                 "대웅": 1,
-                "동양": 1
+                "동양": 1,
+                "유니드": 1,
+                "네패스": 1
             }
         ]
     },
@@ -1380,15 +1347,13 @@
     "수산": {
         "newscontents": [
             {
-                "title": "노르웨이수산물위원회, 노르웨이 수산물 업계 관계사 초청 리셉션 성료",
+                "title": "부산시 수산자원연구소, 어린 동남참게 20만 마리 방류",
                 "newstext": "",
                 "gentime": "2024-06-07",
-                "img": "https://img.asiatoday.co.kr/file/2024y/06m/07d/20240607001602372_1.jpg",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240607001602372",
+                "img": "https://img.lb.inews24.com/v1/facebookexternalhit/face/626x352/9afbe7c3d6174f.png",
+                "link": "http://www.inews24.com/view/1728065",
                 "stockerticker": [
-                    {
-                        "이마트": 1
-                    }
+                    {}
                 ],
                 "searchkeycount": {
                     "수산": 2
@@ -1398,9 +1363,7 @@
             }
         ],
         "company": [
-            {
-                "이마트": 1
-            }
+            {}
         ]
     },
     "연승훈": {
@@ -1651,6 +1614,1759 @@
                 "한화": 3,
                 "피에스케이": 3,
                 "에이피알": 1
+            }
+        ]
+    },
+    "원격진료/비대면진료(U-Healthcare)": {
+        "newscontents": [
+            {
+                "title": "블루엠텍·토마토시스템 주가 상승…기술력 지수 '다소 고평가'",
+                "newstext": "",
+                "gentime": "2024-05-31",
+                "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202405/204029_194140_911_v150.jpg",
+                "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=204029",
+                "stockerticker": [
+                    {
+                        "제이엘케이": 2,
+                        "블루엠텍": 2,
+                        "토마토시스템": 2,
+                        "알서포트": 1,
+                        "인피니트헬스케어": 1,
+                        "이지케어텍": 1,
+                        "케어랩스": 1,
+                        "소프트센": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "원격진료/비대면진료(U-Healthcare)": 2
+                },
+                "coincounts": {},
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "유비케어": 6,
+                "토마토시스템": 5,
+                "인피니트헬스케어": 5,
+                "인성정보": 5,
+                "비트컴퓨터": 4,
+                "케어랩스": 4,
+                "소프트센": 4,
+                "라이프시맨틱스": 4,
+                "위메이드": 3,
+                "이지케어텍": 2,
+                "제이엘케이": 2,
+                "블루엠텍": 2,
+                "헝셩그룹": 2,
+                "알루코": 2,
+                "SFA반도체": 2,
+                "알서포트": 1,
+                "위메이드맥스": 1,
+                "대원전선": 1,
+                "위메이드플레이": 1,
+                "아이비김영": 1,
+                "비상교육": 1,
+                "대원": 1,
+                "메가엠디": 1,
+                "포스코엠텍": 1,
+                "디오": 1,
+                "조일알미늄": 1,
+                "남선알미늄": 1,
+                "피제이메탈": 1,
+                "스튜디오산타클로스": 1,
+                "백광산업": 1,
+                "시그네틱스": 1,
+                "광전자": 1,
+                "서한": 1,
+                "콤텍시스템": 1,
+                "세토피아": 1,
+                "KC코트렐": 1,
+                "뉴인텍": 1,
+                "한미반도체": 1,
+                "넥스틴": 1,
+                "지아이이노베이션": 1,
+                "KEC": 1,
+                "엘컴텍": 1,
+                "알에프세미": 1
+            }
+        ]
+    },
+    " 코스피200 ": {
+        "newscontents": [
+            {
+                "title": "이름 올리자 8.8% 올랐다…'코스피200 편입예정' 6종목 뭐길래",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/09/6dbebbe5-9d87-48f0-9302-e50779c737f1.jpg/_ir_/resize/1280",
+                "link": "https://www.joongang.co.kr/article/25255053",
+                "stockerticker": [
+                    {
+                        "엘앤에프": 2,
+                        "코스모신소재": 2,
+                        "이수스페셜티케미컬": 2,
+                        "한미반도체": 1,
+                        "세아제강": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "코스피200": 6
+                },
+                "coincounts": {},
+                "product": 6
+            },
+            {
+                "title": "'IPO 대어' HD현대마린 최저가 찍었다…멀어진 코스피200 편입",
+                "newstext": "",
+                "gentime": "2024-05-24",
+                "img": "https://i2n.news1.kr/system/photos/2024/5/8/6637572/article.jpg",
+                "link": "https://www.news1.kr/articles/5425041",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "코스피200": 6
+                },
+                "coincounts": {},
+                "product": 6
+            },
+            {
+                "title": "[코스피 200] 풍산 11.85% 껑충…지수 구성종목 중 상승률 1위",
+                "newstext": "",
+                "gentime": "2024-05-03",
+                "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202405/263243_271217_1546_v150.jpg",
+                "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=263243",
+                "stockerticker": [
+                    {
+                        "풍산": 3,
+                        "한국타이어앤테크놀로지": 2,
+                        "LIG넥스원": 2,
+                        "금호타이어": 2,
+                        "한화에어로스페이스": 1,
+                        "S-Oil": 1,
+                        "한온시스템": 1,
+                        "F&F": 1,
+                        "한화": 1,
+                        "한샘": 1,
+                        "DL": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "코스피200": 4
+                },
+                "coincounts": {},
+                "product": 4
+            },
+            {
+                "title": "“고맙다 천비디아”…업황호조·코스피200 편입에 신바람 난 한미반도체",
+                "newstext": "",
+                "gentime": "2024-05-27",
+                "img": "https://wimg.mk.co.kr/news/cms/202405/27/news-p.v1.20240527.375c39efcaa345bdaf5b1eab1404fe78_R.png",
+                "link": "https://www.mk.co.kr/article/11025407",
+                "stockerticker": [
+                    {
+                        "한미반도체": 7,
+                        "엘앤에프": 1,
+                        "아시아나항공": 1,
+                        "신풍제약": 1,
+                        "신풍": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "코스피200": 2
+                },
+                "coincounts": {},
+                "product": 2
+            },
+            {
+                "title": "갈 길 먼 밸류업…코스피200 기업 PBR, 중국·인도보다 낮아",
+                "newstext": "",
+                "gentime": "2024-05-03",
+                "img": "http://www.sisajournal.com/news/thumbnail/202405/290038_213857_5945_v150.jpg",
+                "link": "http://www.sisajournal.com/news/articleView.html?idxno=290038",
+                "stockerticker": [
+                    {
+                        "신흥": 6
+                    }
+                ],
+                "searchkeycount": {
+                    "코스피200": 2
+                },
+                "coincounts": {},
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "한미반도체": 11,
+                "신흥": 6,
+                "엘앤에프": 4,
+                "이수스페셜티케미컬": 3,
+                "풍산": 3,
+                "코스모신소재": 2,
+                "세아제강": 2,
+                "한화": 2,
+                "한국타이어앤테크놀로지": 2,
+                "LIG넥스원": 2,
+                "금호타이어": 2,
+                "아시아나항공": 1,
+                "신풍제약": 1,
+                "신풍": 1,
+                "한화에어로스페이스": 1,
+                "S-Oil": 1,
+                "한온시스템": 1,
+                "F&F": 1,
+                "한샘": 1,
+                "DL": 1
+            }
+        ]
+    },
+    "큐라티스": {
+        "newscontents": [
+            {
+                "title": "큐라티스, 주가 급등…결핵백신 신약 'QTP101' 국가지원 받는다",
+                "newstext": "",
+                "gentime": "2024-05-02",
+                "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2024050204530103959cd1e7f0bdf18018228149.jpg&nmt=23",
+                "link": "http://www.thebigdata.co.kr/view.php?ud=20240502045254543cd1e7f0bdf_23",
+                "stockerticker": [
+                    {
+                        "큐라티스": 8,
+                        "TP": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "큐라티스": 2
+                },
+                "coincounts": {},
+                "product": 2
+            },
+            {
+                "title": "[바이오소식]샤페론 '누겔' 美 임상2상 첫 코호트 안전성 모니터링 완료 外 큐라티스·네오켄바이오",
+                "newstext": "",
+                "gentime": "2024-06-03",
+                "img": "https://cdn.getnews.co.kr/news/thumbnail/202406/677134_396540_305_v150.jpg",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=677134",
+                "stockerticker": [
+                    {
+                        "큐라티스": 8,
+                        "TP": 3,
+                        "샤페론": 3
+                    }
+                ],
+                "searchkeycount": {
+                    "큐라티스": 2
+                },
+                "coincounts": {
+                    "KRW-NEO": 8
+                },
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "큐라티스": 67,
+                "TP": 16,
+                "샤페론": 3,
+                "프레스티지바이오로직스": 2
+            }
+        ]
+    },
+    "한미반도체": {
+        "newscontents": [
+            {
+                "title": "곽동신 한미반도체 부회장, 자사주 또 매입",
+                "newstext": "",
+                "gentime": "2024-06-03",
+                "img": "https://cdn.bloter.net/news/thumbnail/202406/617177_223057_298_v150.jpg",
+                "link": "https://www.bloter.net/news/articleView.html?idxno=617177",
+                "stockerticker": [
+                    {
+                        "한미반도체": 6,
+                        "한화": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "한미반도체": 2
+                },
+                "coincounts": {},
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "한미반도체": 54,
+                "한화": 6,
+                "HLB": 2,
+                "한화솔루션": 2,
+                "와이씨": 2,
+                "에이팩트": 2,
+                "남성": 2,
+                "엘앤에프": 1,
+                "아시아나항공": 1,
+                "신풍제약": 1,
+                "신풍": 1
+            }
+        ]
+    },
+    "코로나19(스푸트니크V)": {
+        "newscontents": [
+            {
+                "title": "코로나19(스푸트니크V) 관련주, '봄날의 햇살' 이트·이아이디, 이화전기... '꽁꽁 겨울' 보령",
+                "newstext": "",
+                "gentime": "2023-03-13",
+                "img": "https://cdn.pointdaily.co.kr/news/thumbnail/202303/149034_129517_5353_v150.jpg",
+                "link": "https://www.thekpm.com/news/articleView.html?idxno=149034",
+                "stockerticker": [
+                    {
+                        "이트론": 4,
+                        "이화전기": 4,
+                        "보령": 3,
+                        "이아이디": 3
+                    }
+                ],
+                "searchkeycount": {
+                    "코로나19(스푸트니크V)": 2
+                },
+                "coincounts": {
+                    "KRW-TRX": 4
+                },
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "이아이디": 8,
+                "이화전기": 5,
+                "이트론": 4,
+                "보령": 4,
+                "이수앱지스": 2,
+                "휴온스": 2,
+                "휴온스글로벌": 2,
+                "프레스티지바이오파마": 2,
+                "종근당": 1,
+                "바이넥스": 1,
+                "휴메딕스": 1,
+                "제테마": 1,
+                "종근당바이오": 1,
+                "대유": 1,
+                "이큐셀": 1
+            }
+        ]
+    },
+    "피에스케이": {
+        "newscontents": [
+            {
+                "title": "피에스케이, 전공정 장비업체 실적 크게 상회-신한투자",
+                "newstext": "",
+                "gentime": "2024-05-17",
+                "img": "https://menu.mt.co.kr/common/meta/meta_mt_twonly.jpg",
+                "link": "http://news.mt.co.kr/mtview.php?no=2024051708365367581",
+                "stockerticker": [
+                    {
+                        "피에스케이": 5
+                    }
+                ],
+                "searchkeycount": {
+                    "피에스케이": 3
+                },
+                "coincounts": {
+                    "KRW-MTL": 2
+                },
+                "product": 3
+            }
+        ],
+        "company": [
+            {
+                "피에스케이": 49,
+                "한화에어로스페이스": 3,
+                "하이브": 3,
+                "HPSP": 3,
+                "한화": 3,
+                "코스텍시스": 3,
+                "이오테크닉스": 3,
+                "하나마이크론": 3,
+                "오로스테크놀로지": 3,
+                "엑시콘": 3,
+                "실리콘투": 2,
+                "아이패밀리에스씨": 2,
+                "한미약품": 2,
+                "가온칩스": 2,
+                "테크윙": 1,
+                "코스메카코리아": 1,
+                "에이피알": 1
+            }
+        ]
+    },
+    "철강 중소형": {
+        "newscontents": [
+            {
+                "title": "이집트, 수에즈 지역에 농산물 수출 목표 철강 기업 설립 추진",
+                "newstext": "",
+                "gentime": "2024-05-31",
+                "img": "https://nimage.g-enews.com/g_www/img/default_bimg.png",
+                "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202405311304585471e8b8a793f7_1/article.html",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "철강": 3,
+                    "중소형": 1
+                },
+                "coincounts": {},
+                "product": 3
+            }
+        ],
+        "company": [
+            {
+                "동국제강": 3,
+                "포스코스틸리온": 2,
+                "하이스틸": 2,
+                "부국철강": 2,
+                "TCC스틸": 1,
+                "세아제강": 1,
+                "신스틸": 1,
+                "KG스틸": 1,
+                "동국씨엠": 1,
+                "문배철강": 1
+            }
+        ]
+    },
+    "배터리": {
+        "newscontents": [
+            {
+                "title": "'배터리 자급자족' 가능한 中이 완성차에 손내미는 이유",
+                "newstext": "",
+                "gentime": "2024-06-08",
+                "img": "https://orgthumb.mt.co.kr/21/2024/06/2024060501493564995_1.jpg",
+                "link": "http://news.mt.co.kr/mtview.php?no=2024060501493564995",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "배터리": 42
+                },
+                "coincounts": {},
+                "product": 42
+            },
+            {
+                "title": "[산업이지] ‘꿈의 배터리’ 둘러싼 한·중·일 삼국지…전고체 배터리가 도대체 뭐길래?",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://img.khan.co.kr/news/2024/06/09/news-p.v1.20240607.71b94e2ac99e416187642602443190c9_P1.jpg",
+                "link": "https://www.khan.co.kr/economy/auto/article/202406090800021",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "배터리": 25
+                },
+                "coincounts": {
+                    "KRW-MTL": 1,
+                    "KRW-CELO": 1
+                },
+                "product": 25
+            },
+            {
+                "title": "[재계 미래! 픽] 전지소재도 K열풍, 글로벌 공급망 우뚝···차세대 배터리 정조준③",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202406/2137504_941241_1419_v150.jpg",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2137504",
+                "stockerticker": [
+                    {
+                        "에코프로": 5,
+                        "OCI": 5,
+                        "포스코퓨처엠": 3,
+                        "LX인터내셔널": 2,
+                        "에코프로비엠": 1,
+                        "고려아연": 1,
+                        "포스코인터내셔널": 1,
+                        "에코프로머티": 1,
+                        "한화": 1,
+                        "파루": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "배터리": 8
+                },
+                "coincounts": {
+                    "KRW-GAS": 1
+                },
+                "product": 8
+            },
+            {
+                "title": "괴물배터리 탑재 럭셔리 SUV … 1회 충전에 서울~부산 '휘리릭'",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://wimg.mk.co.kr/news/cms/202406/10/20240610_01110302000001_L00.jpg",
+                "link": "https://www.mk.co.kr/article/11036648",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "배터리": 3
+                },
+                "coincounts": {},
+                "product": 3
+            },
+            {
+                "title": "미의회 中 CATL 배터리 금수 추진, 테슬라 0.26%↓",
+                "newstext": "",
+                "gentime": "2024-06-08",
+                "img": "https://i2n.news1.kr/system/photos/2024/6/8/6693611/article.jpg",
+                "link": "https://www.news1.kr/articles/5440764",
+                "stockerticker": [
+                    {
+                        "서한": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "배터리": 3
+                },
+                "coincounts": {},
+                "product": 3
+            },
+            {
+                "title": "최태원 친동생, SK의 '뿌리' 배터리·소재·정유·화학 총괄한다",
+                "newstext": "",
+                "gentime": "2024-06-07",
+                "img": "https://newsimg-hams.hankookilbo.com/2024/06/07/68b2c194-b7ff-43ac-9e85-0a06407625e4.jpg",
+                "link": "https://www.hankookilbo.com/News/Read/A2024060717510002050?did=NA",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "배터리": 3
+                },
+                "coincounts": {
+                    "KRW-LSK": 1,
+                    "KRW-GAS": 1
+                },
+                "product": 3
+            },
+            {
+                "title": "SK, 정유·배터리 동반위기 타개 '최재원·유정준' 전면에",
+                "newstext": "",
+                "gentime": "2024-06-07",
+                "img": "https://cdn.straightnews.co.kr/news/thumbnail/202406/249199_153309_516_v150.jpg",
+                "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=249199",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "배터리": 2
+                },
+                "coincounts": {
+                    "KRW-LSK": 1,
+                    "KRW-GAS": 1
+                },
+                "product": 2
+            },
+            {
+                "title": "'핵심광물' 니켈 절반은 인도네시아産, 그뒤엔 中 자본[배터리완전정복](40)",
+                "newstext": "",
+                "gentime": "2024-06-08",
+                "img": "https://cphoto.asiae.co.kr/listimglink/1/2024060714092698730_1717736966.jpg",
+                "link": "https://view.asiae.co.kr/article/2024060623571182655",
+                "stockerticker": [
+                    {
+                        "고려아연": 3,
+                        "SG": 3,
+                        "포스코퓨처엠": 2,
+                        "에코프로": 2,
+                        "STX": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "배터리": 2
+                },
+                "coincounts": {
+                    "KRW-ICX": 2,
+                    "KRW-GAS": 2,
+                    "KRW-MTL": 1,
+                    "KRW-QTUM": 1
+                },
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "한화": 11,
+                "에코프로": 7,
+                "OCI": 5,
+                "포스코퓨처엠": 5,
+                "고려아연": 4,
+                "삼진": 4,
+                "SG": 3,
+                "LX인터내셔널": 2,
+                "에코프로비엠": 1,
+                "포스코인터내셔널": 1,
+                "에코프로머티": 1,
+                "파루": 1,
+                "서한": 1,
+                "STX": 1
+            }
+        ]
+    },
+    "에스티팜": {
+        "newscontents": [
+            {
+                "title": "[오늘의 주목주] '최태원 TSMC와 회담'에 SK 10%대 상승, 에스티팜 15% 뛰어",
+                "newstext": "",
+                "gentime": "2024-06-07",
+                "img": "https://www.businesspost.co.kr/news/photo/202406/20240607170437_38416.jpg",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=354806",
+                "stockerticker": [
+                    {
+                        "에스티팜": 3,
+                        "HLB": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "에스티팜": 2
+                },
+                "coincounts": {},
+                "product": 2
+            },
+            {
+                "title": "[바이오USA]에스티팜, 유전자 편집 CDMO 수주 나섰다…\"모달리티 확보\"",
+                "newstext": "",
+                "gentime": "2024-06-07",
+                "img": "https://cdn.daily.hankooki.com/news/thumbnail/202406/1092366_1318549_339_v150.jpg",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1092366",
+                "stockerticker": [
+                    {
+                        "에스티팜": 4
+                    }
+                ],
+                "searchkeycount": {
+                    "에스티팜": 2
+                },
+                "coincounts": {},
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "에스티팜": 30,
+                "아미코젠": 2,
+                "미코": 2,
+                "파미셀": 2,
+                "엔투텍": 2,
+                "바른손": 2,
+                "HLB": 1,
+                "차백신연구소": 1,
+                "삼천당제약": 1,
+                "대웅": 1,
+                "메디톡스": 1,
+                "신일제약": 1,
+                "녹십자": 1,
+                "에이비프로바이오": 1,
+                "대한뉴팜": 1,
+                "소마젠": 1,
+                "바른손이앤에이": 1
+            }
+        ]
+    },
+    "프레스티지바이오로직스": {
+        "newscontents": [
+            {
+                "title": "[바이오USA 2024] 박소연 회장 “허셉틴 시밀러 유럽 허가 자신”",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://cdn.docdocdoc.co.kr/news/thumbnail/202406/3017998_3020021_3233_v150.jpg",
+                "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3017998",
+                "stockerticker": [
+                    {
+                        "프레스티지바이오파마": 11,
+                        "프레스티지바이오로직스": 4
+                    }
+                ],
+                "searchkeycount": {
+                    "프레스티지바이오로직스": 2
+                },
+                "coincounts": {},
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "프레스티지바이오파마": 25,
+                "프레스티지바이오로직스": 20,
+                "알테오젠": 7,
+                "한올바이오파마": 4,
+                "종근당": 4,
+                "종근당바이오": 2,
+                "에스티팜": 1,
+                "신흥": 1,
+                "한창": 1,
+                "리가켐바이오": 1,
+                "차바이오텍": 1,
+                "오텍": 1
+            }
+        ]
+    },
+    "줄기세포": {
+        "newscontents": [
+            {
+                "title": "골수 줄기세포 주사 열풍·의료기기 혼탁상 사그라들까",
+                "newstext": "",
+                "gentime": "2024-06-04",
+                "img": "https://image.kmib.co.kr/online_image/2024/0604/2024060319450468056_1717411504_1717393263.jpg",
+                "link": "https://www.kmib.co.kr/article/view.asp?arcid=1717393263&code=14130000&cp=nv",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "줄기세포": 12
+                },
+                "coincounts": {},
+                "product": 12
+            },
+            {
+                "title": "바이오스타, 줄기세포 배양 기술 日 후생성 승인…6월부터 치료 개시",
+                "newstext": "",
+                "gentime": "2024-05-30",
+                "img": "https://img.etoday.co.kr/pto_db/2024/05/20240530103220_2031401_1200_305.png",
+                "link": "https://www.etoday.co.kr/news/view/2365172",
+                "stockerticker": [
+                    {
+                        "네이처셀": 2
+                    }
+                ],
+                "searchkeycount": {
+                    "줄기세포": 4
+                },
+                "coincounts": {
+                    "KRW-EOS": 7
+                },
+                "product": 4
+            },
+            {
+                "title": "바이오스타, 줄기세포 배양기술 일본 후생성 승인",
+                "newstext": "",
+                "gentime": "2024-05-31",
+                "img": "https://s0.wp.com/i/blank.jpg",
+                "link": "http://kor.theasian.asia/archives/360691",
+                "stockerticker": [
+                    {
+                        "네이처셀": 2
+                    }
+                ],
+                "searchkeycount": {
+                    "줄기세포": 3
+                },
+                "coincounts": {
+                    "KRW-EOS": 5
+                },
+                "product": 3
+            },
+            {
+                "title": "[특징주]강스템바이오텍, 글로벌 제약사 아토피 줄기세포 치료제 관심 ↑",
+                "newstext": "",
+                "gentime": "2024-05-30",
+                "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png",
+                "link": "https://view.asiae.co.kr/article/2024053010373408449",
+                "stockerticker": [
+                    {
+                        "강스템바이오텍": 7,
+                        "오텍": 7,
+                        "효성": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "줄기세포": 2
+                },
+                "coincounts": {},
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "대웅": 22,
+                "대웅제약": 17,
+                "강스템바이오텍": 7,
+                "오텍": 7,
+                "네이처셀": 4,
+                "하이브": 2,
+                "효성": 1
+            }
+        ]
+    },
+    "마크로젠": {
+        "newscontents": [
+            {
+                "title": "마크로젠, IFEZ 송도글로벌지놈센터 착공",
+                "newstext": "",
+                "gentime": "2024-04-28",
+                "img": "https://www.jeonmae.co.kr/news/thumbnail/202404/1033736_729194_4339_v150.jpg",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1033736",
+                "stockerticker": [
+                    {
+                        "마크로젠": 12
+                    }
+                ],
+                "searchkeycount": {
+                    "마크로젠": 4
+                },
+                "coincounts": {
+                    "KRW-SAND": 2
+                },
+                "product": 4
+            }
+        ],
+        "company": [
+            {
+                "마크로젠": 26,
+                "한미약품": 8,
+                "대웅제약": 6,
+                "대웅": 6,
+                "코어라인소프트": 5,
+                "한독": 5,
+                "SG": 4,
+                "인트론바이오": 2,
+                "한화": 1,
+                "서흥": 1,
+                "아모레퍼시픽": 1,
+                "고바이오랩": 1,
+                "지놈앤컴퍼니": 1,
+                "제노포커스": 1,
+                "비피도": 1,
+                "한창": 1
+            }
+        ]
+    },
+    "가을 하늘": {
+        "newscontents": [
+            {
+                "title": "파란 하늘 아래 초록빛 댑싸리 \"우리 곧 만나요\"",
+                "newstext": "",
+                "gentime": "2024-06-07",
+                "img": "https://cdn.news.lghellovision.net/news/thumbnail/202406/469372_81199_4149_v150.jpg",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=469372",
+                "stockerticker": [
+                    {
+                        "한창": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "가을": 2,
+                    "하늘": 2
+                },
+                "coincounts": {
+                    "KRW-ANKR": 1
+                },
+                "product": 4
+            }
+        ],
+        "company": [
+            {
+                "한화": 30,
+                "한창": 3,
+                "하나투어": 3,
+                "SG": 2,
+                "노을": 2,
+                "디오": 1,
+                "케이웨더": 1,
+                "원준": 1,
+                "진에어": 1
+            }
+        ]
+    },
+    "영화 아카데미": {
+        "newscontents": [
+            {
+                "title": "‘반지의 제왕’ 영화음악, ‘명예의 전당’ 올랐다",
+                "newstext": "",
+                "gentime": "2024-06-07",
+                "img": "http://file.osen.co.kr/article_thumb/2024/06/07/202406071119773767_666270506f038_300x.jpg",
+                "link": "http://www.osen.co.kr/article/G1112352016",
+                "stockerticker": [
+                    {
+                        "디오": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "영화": 4,
+                    "아카데미": 3
+                },
+                "coincounts": {},
+                "product": 12
+            },
+            {
+                "title": "\"괴물보다 '일잘러' 공무원이 더 위험\" 오스카 거머쥔 나치 풍자 영화",
+                "newstext": "",
+                "gentime": "2024-06-02",
+                "img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202406/02/24b62838-8519-43c9-a79f-fd2498b2b6e0.jpg/_ir_/resize/1280",
+                "link": "https://www.joongang.co.kr/article/25253569",
+                "stockerticker": [
+                    {
+                        "디오": 2
+                    }
+                ],
+                "searchkeycount": {
+                    "영화": 4,
+                    "아카데미": 2
+                },
+                "coincounts": {},
+                "product": 8
+            },
+            {
+                "title": "해고가 살인인 집에서 피어난 라일락[영화로운 텅장탈출]",
+                "newstext": "",
+                "gentime": "2024-06-08",
+                "img": "https://image.fnnews.com/resource/media/image/2024/05/08/202405081416506697_l.jpg",
+                "link": "http://www.fnnews.com/news/202406061545204097",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "영화": 4,
+                    "아카데미": 1
+                },
+                "coincounts": {
+                    "KRW-GAS": 1
+                },
+                "product": 4
+            },
+            {
+                "title": "[조성준의 와이드엔터]영화계 ‘부부 협업’ 징크스 깬 김태용 감독-탕웨이 커플",
+                "newstext": "",
+                "gentime": "2024-06-09",
+                "img": "https://img.asiatoday.co.kr/file/2024y/06m/10d/2024061001000657300040532.jpg",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240608010003554",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "영화": 3,
+                    "아카데미": 1
+                },
+                "coincounts": {
+                    "KRW-NEO": 1
+                },
+                "product": 3
+            }
+        ],
+        "company": [
+            {
+                "동서": 12,
+                "디오": 3,
+                "화신": 1,
+                "모나리자": 1,
+                "러셀": 1,
+                "핑거": 1,
+                "윈스": 1
+            }
+        ]
+    },
+    "아토피": {
+        "newscontents": [
+            {
+                "title": "[김재호의 생명이야기]<261>아토피 피부염, 무엇이 문제인가",
+                "newstext": "",
+                "gentime": "2024-06-07",
+                "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png",
+                "link": "https://view.asiae.co.kr/article/2024060708492413703",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "아토피": 19
+                },
+                "coincounts": {},
+                "product": 19
+            },
+            {
+                "title": "\"아기 온몸이 피투성이\"…'연 800만원' 영유아 아토피약, 80만원대로",
+                "newstext": "",
+                "gentime": "2024-06-03",
+                "img": "https://orgthumb.mt.co.kr/21/2024/06/2024060316005423935_1.jpg",
+                "link": "http://news.mt.co.kr/mtview.php?no=2024060316005423935",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "아토피": 19
+                },
+                "coincounts": {},
+                "product": 19
+            },
+            {
+                "title": "[특징주] 강스템바이오텍, 아토피치료제 3상 성공 기대감에 급등",
+                "newstext": "",
+                "gentime": "2024-06-07",
+                "img": "http://www.biotimes.co.kr/news/thumbnail/202406/15548_20419_3755_v150.jpg",
+                "link": "http://www.biotimes.co.kr/news/articleView.html?idxno=15548",
+                "stockerticker": [
+                    {
+                        "강스템바이오텍": 6,
+                        "오텍": 6
+                    }
+                ],
+                "searchkeycount": {
+                    "아토피": 14
+                },
+                "coincounts": {},
+                "product": 14
+            },
+            {
+                "title": "강스템바이오텍, ‘퓨어스템-에이디주’ 3상 결론 임박, ‘듀피젠트’ 뛰어넘을까",
+                "newstext": "",
+                "gentime": "2024-06-07",
+                "img": "https://image.edaily.co.kr/images/Photo/files/NP/S/2024/06/PS24060500175.jpg",
+                "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01082406638919424",
+                "stockerticker": [
+                    {
+                        "강스템바이오텍": 5,
+                        "오텍": 5,
+                        "한화": 2,
+                        "신흥": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "아토피": 8
+                },
+                "coincounts": {},
+                "product": 8
+            },
+            {
+                "title": "유독 여름에 ‘아토피’가 심해지는 이유",
+                "newstext": "",
+                "gentime": "2024-06-05",
+                "img": "https://mdtoday.co.kr/news/data/20240605/p1065578094478742_648_thum.jpg",
+                "link": "https://mdtoday.co.kr/news/view/1065578094478742",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "아토피": 6
+                },
+                "coincounts": {},
+                "product": 6
+            },
+            {
+                "title": "샤페론, 아토피 치료제 '누겔'… 美 임상 2상 모니터링 성료",
+                "newstext": "",
+                "gentime": "2024-06-03",
+                "img": "https://menu.moneys.co.kr/moneyweek/thumb/2024/06/03/06/2024060308282635397_1.jpg",
+                "link": "https://www.moneys.co.kr/article/2024060308282635397",
+                "stockerticker": [
+                    {
+                        "샤페론": 4
+                    }
+                ],
+                "searchkeycount": {
+                    "아토피": 5
+                },
+                "coincounts": {},
+                "product": 5
+            },
+            {
+                "title": "[And 건강] 치료효과는 좋은데… 부작용에 약 바꾸면 보험혜택 아웃",
+                "newstext": "",
+                "gentime": "2024-06-04",
+                "img": "https://image.kmib.co.kr/online_image/2024/0604/2024060320450568236_1717415105_1717319725.jpg",
+                "link": "https://www.kmib.co.kr/article/view.asp?arcid=1717319725&code=14130000&cp=nv",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "아토피": 5
+                },
+                "coincounts": {},
+                "product": 5
+            },
+            {
+                "title": "아토피, 다가오는 여름철 주의해야 할 사항은?",
+                "newstext": "",
+                "gentime": "2024-06-03",
+                "img": "https://mdtoday.co.kr/news/data/20240530/p1065604214727209_574_thum.jpg",
+                "link": "https://mdtoday.co.kr/news/view/1065604214727209",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "아토피": 4
+                },
+                "coincounts": {},
+                "product": 4
+            },
+            {
+                "title": "아토피 피부염 치료제 시장은 지금 '춘추전국시대'",
+                "newstext": "",
+                "gentime": "2024-06-04",
+                "img": "http://www.bosa.co.kr/image/logo/snslogo_20210311040859.jpg",
+                "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2223511",
+                "stockerticker": [
+                    {
+                        "효성": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "아토피": 4
+                },
+                "coincounts": {},
+                "product": 4
+            },
+            {
+                "title": "인천시교육청, 초등생 가족 대상 아토피 건강 가족캠프 성료",
+                "newstext": "",
+                "gentime": "2024-06-05",
+                "img": "https://www.cstimes.com/news/photo/202406/595678_508110_2525.jpg",
+                "link": "https://www.cstimes.com/news/articleView.html?idxno=595678",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "아토피": 3
+                },
+                "coincounts": {},
+                "product": 3
+            },
+            {
+                "title": "“아트랄자, 국내 중증 아토피 치료에 최적 옵션될 것”",
+                "newstext": "",
+                "gentime": "2024-05-30",
+                "img": "https://kormedi.com/wp-content/uploads/2024/05/5-3-1024x597.jpg",
+                "link": "https://kormedi.com/?p=1693364",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "아토피": 2
+                },
+                "coincounts": {},
+                "product": 2
+            },
+            {
+                "title": "[인천교육24시] 인천시교육청, 랜선 직업교육박람회 개최",
+                "newstext": "",
+                "gentime": "2024-06-05",
+                "img": "http://www.sisajournal.com/news/thumbnail/202406/292770_217400_2939_v150.jpg",
+                "link": "http://www.sisajournal.com/news/articleView.html?idxno=292770",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "아토피": 2
+                },
+                "coincounts": {},
+                "product": 2
+            },
+            {
+                "title": "“발바닥 자극하면 왜 좋을까?”…맨발 걷기, 진짜 효과는 ‘이것’",
+                "newstext": "",
+                "gentime": "2024-06-03",
+                "img": "https://kormedi.com/wp-content/uploads/2024/06/gettyimages-a12632423.jpg",
+                "link": "https://kormedi.com/?p=1694164",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "아토피": 2
+                },
+                "coincounts": {},
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "강스템바이오텍": 11,
+                "오텍": 11,
+                "샤페론": 4,
+                "한화": 2,
+                "신흥": 1,
+                "효성": 1
+            }
+        ]
+    },
+    "반도체 재료/부품": {
+        "newscontents": [
+            {
+                "title": "테마별 주식 ‘반도체 재료·부품 부문’ 순위 공개···미코 ·하나마이크론 상위권",
+                "newstext": "",
+                "gentime": "2024-05-16",
+                "img": "https://cdn.enewstoday.co.kr/news/thumbnail/202405/2127657_930730_405_v150.jpg",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2127657",
+                "stockerticker": [
+                    {
+                        "미코": 7,
+                        "동진쎄미켐": 3,
+                        "레이크머티리얼즈": 3,
+                        "하나마이크론": 3,
+                        "와이씨": 3,
+                        "덕산테코피아": 3,
+                        "후성": 3,
+                        "에프에스티": 3,
+                        "동운아나텍": 3,
+                        "와이씨켐": 3,
+                        "KEC": 3
+                    }
+                ],
+                "searchkeycount": {
+                    "반도체": 6,
+                    "재료/부품": 4
+                },
+                "coincounts": {},
+                "product": 24
+            }
+        ],
+        "company": [
+            {
+                "코스텍시스": 8,
+                "미코": 7,
+                "동진쎄미켐": 3,
+                "레이크머티리얼즈": 3,
+                "하나마이크론": 3,
+                "와이씨": 3,
+                "덕산테코피아": 3,
+                "후성": 3,
+                "에프에스티": 3,
+                "동운아나텍": 3,
+                "와이씨켐": 3,
+                "KEC": 3,
+                "가온칩스": 3,
+                "오픈엣지테크놀로지": 3,
+                "텔레칩스": 3,
+                "모비스": 1,
+                "대모": 1
+            }
+        ]
+    },
+    "원익QnC": {
+        "newscontents": [
+            {
+                "title": "[특징주] 원익QnC, 테라 퀀텀 흑연서 상온 초전도체 발견… 계열사 제품 생산·판매 부각",
+                "newstext": "",
+                "gentime": "2024-01-29",
+                "img": "https://menu.moneys.co.kr/moneyweek/thumb/2024/01/29/06/2024012909022846711_1.jpg",
+                "link": "https://www.moneys.co.kr/article/2024012909022846711",
+                "stockerticker": [
+                    {
+                        "원익": 6,
+                        "원익QnC": 5,
+                        "KCC": 2
+                    }
+                ],
+                "searchkeycount": {
+                    "원익QnC": 2
+                },
+                "coincounts": {
+                    "KRW-QTUM": 4,
+                    "KRW-BORA": 1
+                },
+                "product": 2
+            },
+            {
+                "title": "[클릭 e종목]\"원익QnC, DRAM·해외 비메모리 수요개선 기대\"",
+                "newstext": "",
+                "gentime": "2024-03-11",
+                "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png",
+                "link": "https://view.asiae.co.kr/article/2024031108281300821",
+                "stockerticker": [
+                    {
+                        "원익": 5,
+                        "원익QnC": 4
+                    }
+                ],
+                "searchkeycount": {
+                    "원익QnC": 2
+                },
+                "coincounts": {},
+                "product": 2
+            },
+            {
+                "title": "원익QnC, 주가 급등…제품 다변화 및 자회사 실적 성장 주목",
+                "newstext": "",
+                "gentime": "2024-05-29",
+                "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2024052905194108340cd1e7f0bdf18018228149.jpg&nmt=23",
+                "link": "http://www.thebigdata.co.kr/view.php?ud=202405290519286641cd1e7f0bdf_23",
+                "stockerticker": [
+                    {
+                        "원익QnC": 4,
+                        "원익": 4
+                    }
+                ],
+                "searchkeycount": {
+                    "원익QnC": 2
+                },
+                "coincounts": {},
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "원익": 35,
+                "원익QnC": 30,
+                "피에스케이": 8,
+                "더블유게임즈": 4,
+                "농심": 3,
+                "실리콘투": 3,
+                "KCC": 2,
+                "카페24": 2,
+                "삼양식품": 2,
+                "HMM": 1,
+                "한화솔루션": 1,
+                "에이피알": 1,
+                "한화": 1,
+                "한솔케미칼": 1,
+                "유진테크": 1,
+                "케이씨텍": 1,
+                "원익머트리얼즈": 1,
+                "케이씨": 1,
+                "디엔에프": 1
+            }
+        ]
+    },
+    "고체산화물 연료전지(SOFC)": {
+        "newscontents": [
+            {
+                "title": "1위 SK이터닉스 주가·2위 두산퓨얼셀 주가·3위 LS머트리얼즈 주가, 6월 1주차 주식 고체산화물 연료전지(SOFC) 부문 트렌드지수 순위",
+                "newstext": "",
+                "gentime": "2024-06-06",
+                "img": "http://www.job-post.co.kr/news/thumbnail/202406/106648_112339_240_v150.jpg",
+                "link": "https://www.job-post.co.kr/news/articleView.html?idxno=106648",
+                "stockerticker": [
+                    {
+                        "금양": 3,
+                        "비에이치": 3,
+                        "미코": 3,
+                        "비에이치아이": 3,
+                        "금양그린파워": 3,
+                        "범한퓨얼셀": 3,
+                        "엘티씨": 3,
+                        "한선엔지니어링": 3,
+                        "아모센스": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "고체산화물": 4,
+                    "연료전지(SOFC)": 4
+                },
+                "coincounts": {},
+                "product": 16
+            },
+            {
+                "title": "[특징주] 동아화성, AI발 전력수요 폭증...자회사 'SOFC 시스템 단점 극복' 차세대 수소연료전지 HT-PEMFC 부각↑",
+                "newstext": "",
+                "gentime": "2024-05-24",
+                "img": "https://img.etoday.co.kr/pto_db/2024/05/20240523141222_2028369_600_400.jpg",
+                "link": "https://www.etoday.co.kr/news/view/2363271",
+                "stockerticker": [
+                    {
+                        "동아화성": 2
+                    }
+                ],
+                "searchkeycount": {
+                    "고체산화물": 2,
+                    "연료전지(SOFC)": 1
+                },
+                "coincounts": {
+                    "KRW-GAS": 1
+                },
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "한선엔지니어링": 10,
+                "미코": 7,
+                "범한퓨얼셀": 7,
+                "상상인": 6,
+                "아모센스": 5,
+                "금양": 4,
+                "금양그린파워": 4,
+                "엘티씨": 4,
+                "비에이치": 3,
+                "비에이치아이": 3,
+                "동아화성": 2,
+                "한국전력": 2,
+                "LX인터내셔널": 1,
+                "STX중공업": 1,
+                "STX": 1,
+                "DL": 1
+            }
+        ]
+    },
+    "두산퓨얼셀": {
+        "newscontents": [
+            {
+                "title": "1위 SK이터닉스 주가·2위 두산퓨얼셀 주가·3위 LS머트리얼즈 주가, 6월 1주차 주식 고체산화물 연료전지(SOFC) 부문 트렌드지수 순위",
+                "newstext": "",
+                "gentime": "2024-06-06",
+                "img": "https://cdn.job-post.co.kr/news/thumbnail/202406/106648_112339_240_v150.jpg",
+                "link": "https://www.job-post.co.kr/news/articleView.html?idxno=106648",
+                "stockerticker": [
+                    {
+                        "금양": 3,
+                        "비에이치": 3,
+                        "미코": 3,
+                        "비에이치아이": 3,
+                        "금양그린파워": 3,
+                        "범한퓨얼셀": 3,
+                        "엘티씨": 3,
+                        "한선엔지니어링": 3,
+                        "아모센스": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "두산퓨얼셀": 3
+                },
+                "coincounts": {},
+                "product": 3
+            },
+            {
+                "title": "[특징주]두산퓨얼셀 우선주 상한가↑‥美 블룸에너지 강세 영향",
+                "newstext": "",
+                "gentime": "2024-05-22",
+                "img": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png",
+                "link": "https://view.asiae.co.kr/article/2024052209401644783",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "두산퓨얼셀": 2
+                },
+                "coincounts": {},
+                "product": 2
+            },
+            {
+                "title": "두산퓨얼셀, 투자주의종목 지정…거래소 \"스팸관여 과다\"",
+                "newstext": "",
+                "gentime": "2024-05-28",
+                "img": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2024052807200900580cd1e7f0bdf18018228149.jpg&nmt=23",
+                "link": "http://www.thebigdata.co.kr/view.php?ud=202405280720019685cd1e7f0bdf_23",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "두산퓨얼셀": 2
+                },
+                "coincounts": {},
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "미코": 6,
+                "범한퓨얼셀": 6,
+                "상상인": 3,
+                "금양": 3,
+                "비에이치": 3,
+                "비에이치아이": 3,
+                "금양그린파워": 3,
+                "엘티씨": 3,
+                "한선엔지니어링": 3,
+                "한국카본": 2,
+                "SDN": 2,
+                "한국전력": 1,
+                "DL": 1,
+                "한화솔루션": 1,
+                "한화": 1,
+                "에스퓨얼셀": 1,
+                "아모센스": 1
+            }
+        ]
+    },
+    "SK이터닉스": {
+        "newscontents": [
+            {
+                "title": "1위 SK이터닉스 주가·2위 두산퓨얼셀 주가·3위 LS머트리얼즈 주가, 6월 1주차 주식 고체산화물 연료전지(SOFC) 부문 트렌드지수 순위",
+                "newstext": "",
+                "gentime": "2024-06-06",
+                "img": "http://www.job-post.co.kr/news/thumbnail/202406/106648_112339_240_v150.jpg",
+                "link": "https://www.job-post.co.kr/news/articleView.html?idxno=106648",
+                "stockerticker": [
+                    {
+                        "금양": 3,
+                        "비에이치": 3,
+                        "미코": 3,
+                        "비에이치아이": 3,
+                        "금양그린파워": 3,
+                        "범한퓨얼셀": 3,
+                        "엘티씨": 3,
+                        "한선엔지니어링": 3,
+                        "아모센스": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "SK이터닉스": 5
+                },
+                "coincounts": {},
+                "product": 5
+            },
+            {
+                "title": "\"AI 데이터센터 대규모 전력 必\" SK이터닉스 주가 1%대 상승",
+                "newstext": "",
+                "gentime": "2024-05-27",
+                "img": "https://cdn.gukjenews.com/news/thumbnail/202405/3003973_3083422_1437_v150.jpg",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=3003973",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "SK이터닉스": 3
+                },
+                "coincounts": {
+                    "KRW-GAS": 4
+                },
+                "product": 3
+            },
+            {
+                "title": "전기안전공사-SK이터닉스, 친환경에너지 전기안전에 ‘맞손’",
+                "newstext": "",
+                "gentime": "2024-06-05",
+                "img": "https://cdn.electimes.com/news/thumbnail/202406/338159_540609_730_v150.jpg",
+                "link": "https://www.electimes.com/news/articleView.html?idxno=338159",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "SK이터닉스": 3
+                },
+                "coincounts": {},
+                "product": 3
+            },
+            {
+                "title": "SK이터닉스 주가 상승, AI데이터센터 대안 'SOFC' 주목",
+                "newstext": "",
+                "gentime": "2024-05-23",
+                "img": "https://cdn.gukjenews.com/news/thumbnail/202405/3001146_3080185_4449_v150.jpg",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=3001146",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "SK이터닉스": 2
+                },
+                "coincounts": {
+                    "KRW-GAS": 2
+                },
+                "product": 2
+            },
+            {
+                "title": "SK이터닉스 주가 상한가, SOFC 관련주 부각",
+                "newstext": "",
+                "gentime": "2024-05-22",
+                "img": "https://cdn.gukjenews.com/news/thumbnail/202405/3000245_3079137_1252_v150.jpg",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=3000245",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "SK이터닉스": 2
+                },
+                "coincounts": {
+                    "KRW-GAS": 2
+                },
+                "product": 2
+            },
+            {
+                "title": "SK하이닉스 위에 SK이터닉스...두달 만에 몸값 3배",
+                "newstext": "",
+                "gentime": "2024-05-29",
+                "img": "https://img.wowtv.co.kr/vodimg/E20240529/w1716961237031.jpg",
+                "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202405290079&t=NNv",
+                "stockerticker": [
+                    {}
+                ],
+                "searchkeycount": {
+                    "SK이터닉스": 2
+                },
+                "coincounts": {
+                    "KRW-ANKR": 6,
+                    "KRW-LSK": 1,
+                    "KRW-GAS": 1
+                },
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "금양": 3,
+                "비에이치": 3,
+                "미코": 3,
+                "비에이치아이": 3,
+                "금양그린파워": 3,
+                "범한퓨얼셀": 3,
+                "엘티씨": 3,
+                "한선엔지니어링": 3,
+                "아모센스": 1
+            }
+        ]
+    },
+    "오픈엣지테크놀로지": {
+        "newscontents": [
+            {
+                "title": "'오픈엣지테크놀로지', 연령대별 관심도를 파헤치다! 2024년 4월 4일 랭키파이의 흥미로운 빅데이터 결과",
+                "newstext": "",
+                "gentime": "2024-04-04",
+                "img": "https://cdn.issuenbiz.com/news/thumbnail/202404/40585_41423_3528_v150.jpg",
+                "link": "http://www.issuenbiz.com/news/articleView.html?idxno=40585",
+                "stockerticker": [
+                    {
+                        "오픈엣지테크놀로지": 10,
+                        "남성": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "오픈엣지테크놀로지": 4
+                },
+                "coincounts": {},
+                "product": 4
+            },
+            {
+                "title": "'오픈엣지테크놀로지', 누가 가장 열광하나? 2024년 3월 29일 랭키파이의 성별·연령별 빅데이터 분석 결과! ::",
+                "newstext": "",
+                "gentime": "2024-03-29",
+                "img": "https://cdn.stardailynews.co.kr/news/thumbnail/202403/442992_462211_029_v150.jpg",
+                "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=442992",
+                "stockerticker": [
+                    {
+                        "오픈엣지테크놀로지": 10,
+                        "남성": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "오픈엣지테크놀로지": 4
+                },
+                "coincounts": {},
+                "product": 4
+            },
+            {
+                "title": "오픈엣지테크놀로지 주가 훨훨...고성능 신경망처리장치 IP인 '인라이트 프로' 부각",
+                "newstext": "",
+                "gentime": "2024-04-23",
+                "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202404/261041_269432_612_v150.jpg",
+                "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=261041",
+                "stockerticker": [
+                    {
+                        "오픈엣지테크놀로지": 2,
+                        "네패스": 2,
+                        "에이직랜드": 1,
+                        "자람테크놀로지": 1,
+                        "네패스아크": 1,
+                        "앤씨앤": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "오픈엣지테크놀로지": 2
+                },
+                "coincounts": {
+                    "KRW-ARK": 1
+                },
+                "product": 2
+            },
+            {
+                "title": "오픈엣지테크놀로지 주가 방긋... 기관은 7거래일 연속  차익매물 봇물",
+                "newstext": "",
+                "gentime": "2024-03-28",
+                "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202403/255122_264634_326_v150.jpg",
+                "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=255122",
+                "stockerticker": [
+                    {
+                        "오픈엣지테크놀로지": 3,
+                        "네패스": 2,
+                        "에이직랜드": 1,
+                        "자람테크놀로지": 1,
+                        "네패스아크": 1,
+                        "앤씨앤": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "오픈엣지테크놀로지": 2
+                },
+                "coincounts": {
+                    "KRW-ARK": 1
+                },
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "오픈엣지테크놀로지": 49,
+                "네패스": 6,
+                "자람테크놀로지": 4,
+                "네오셈": 3,
+                "에이직랜드": 3,
+                "네패스아크": 3,
+                "앤씨앤": 3,
+                "파두": 2,
+                "남성": 2,
+                "코리아써키트": 1,
+                "퀄리타스반도체": 1,
+                "큐알티": 1,
+                "티엘비": 1,
+                "엑시콘": 1,
+                "오킨스전자": 1,
+                "국순당": 1,
+                "프로텍": 1,
+                "SG": 1
+            }
+        ]
+    },
+    "자람테크놀로지": {
+        "newscontents": [
+            {
+                "title": "2024년 4월 12일, 관심 증가세 ′자람테크놀로지′에 대한 우리의 관심은 어느 정도? 랭키파이 성별·연령별 분석 결과 발표",
+                "newstext": "",
+                "gentime": "2024-04-12",
+                "img": "https://cwn.kr/news/data/newshub/2024/04/12/p1065579332743703_756_thum.jpg",
+                "link": "https://cwn.kr/article/1065579332743703",
+                "stockerticker": [
+                    {
+                        "자람테크놀로지": 15,
+                        "남성": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "자람테크놀로지": 5
+                },
+                "coincounts": {},
+                "product": 5
+            },
+            {
+                "title": "자람테크놀로지 주가 뜀박질...미국 광통신 시장 공략 대박 '정조준'",
+                "newstext": "",
+                "gentime": "2024-04-10",
+                "img": "https://cdn.pinpointnews.co.kr/news/thumbnail/202404/258155_267082_5957_v150.jpg",
+                "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=258155",
+                "stockerticker": [
+                    {
+                        "자람테크놀로지": 4,
+                        "네패스": 2,
+                        "에이직랜드": 1,
+                        "오픈엣지테크놀로지": 1,
+                        "네패스아크": 1,
+                        "앤씨앤": 1
+                    }
+                ],
+                "searchkeycount": {
+                    "자람테크놀로지": 2
+                },
+                "coincounts": {
+                    "KRW-ARK": 1
+                },
+                "product": 2
+            }
+        ],
+        "company": [
+            {
+                "자람테크놀로지": 39,
+                "네패스": 8,
+                "바텍": 7,
+                "이엔플러스": 5,
+                "에이직랜드": 4,
+                "오픈엣지테크놀로지": 4,
+                "네패스아크": 4,
+                "앤씨앤": 4,
+                "KG이니시스": 3,
+                "밀리의서재": 3,
+                "ISC": 3,
+                "청담글로벌": 2,
+                "남성": 1
             }
         ]
     }
